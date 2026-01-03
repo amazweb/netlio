@@ -139,7 +139,7 @@ export default function Footer() {
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
             {/* Copyright */}
             <p className="text-white/50 text-sm">
-              © {currentYear} Abdellah Afraoua. All rights reserved.
+              © 2021 Abdellah Afraoua. All rights reserved.
             </p>
 
             {/* Social Links */}
